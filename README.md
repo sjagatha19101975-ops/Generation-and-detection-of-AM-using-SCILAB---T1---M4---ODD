@@ -99,6 +99,9 @@ Compare the original modulating signal with the demodulated signal.
 ## Output
 <img width="1917" height="1021" alt="Screenshot 2026-09-18 232107" src="https://github.com/user-attachments/assets/3820d5d8-3625-4a19-bc82-73532e7ea544" />
 
+## MARK SPLIT UP
+<img width="1280" height="915" alt="image" src="https://github.com/user-attachments/assets/2208c28b-193e-4405-a439-bebc3e6b827f" />
+
 
 
 ## Result
