@@ -105,8 +105,9 @@ Compare the original modulating signal with the demodulated signal.
 
 
 ## Result
+<img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/8e220711-add1-47a4-a68c-b2f719c7bbf0" />
 
-Successfully generated and detected the amplitude modulation and demodulation using SCILAB and to calculate modulation index of AM.
+
 
 
 
